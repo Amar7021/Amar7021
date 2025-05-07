@@ -2,7 +2,7 @@
 
 ### 🚀 A Passionate Full Stack Developer From Mumbai, India
 
-[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/amar-7021)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Amar7021)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amar-belkar-7806101b2)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:amarhere1122@gmail.com)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-007ACC?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22154468/amar-belkar)
@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🌱 I’m currently learning **Advanced Core Concepts of Full Stack Development**
-- 👨‍💻 All of my projects are available on [GitHub](https://github.com/amar-7021)
+- 👨‍💻 All of my projects are available on [GitHub](https://github.com/Amar7021)
 - 💬 Ask me about **JavaScript, TypeScript, React, or Expo—sharing what I know is what I love**
 - ⚡ Fun fact: **I believe in "building first, learning along the way." The best way to grow is by doing**
 
@@ -46,16 +46,15 @@
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=amar-7021)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Amar7021)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amar-7021&layout=compact&show_icons=true&locale=en)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amar7021&layout=compact&show_icons=true&locale=en)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amar-7021&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amar7021&show_icons=true&locale=en)
 
-<!-- Uncomment to enable streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amar-7021)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amar7021)
 
